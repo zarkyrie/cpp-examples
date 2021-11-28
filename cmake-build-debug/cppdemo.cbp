@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cppdemo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol598">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol598" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol598"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol598/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol598" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol598/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol166">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol166" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol166"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol166/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol166" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol166/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol1482">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol1482" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol1482"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol1482/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol1482" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol1482/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol740">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol740" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol740"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol740/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol740" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol740/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol26">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol26" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol26"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol26/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol26" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol26/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol217">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol217" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol217"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol217/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol217" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol217/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol118">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol118" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol118"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol118/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol118" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol118/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol621">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol621" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol621"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol621/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol621" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol621/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol402">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol402" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol402"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol402/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol402" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol402/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol124">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol124" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol124"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol124/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol124" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol124/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol198">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol198" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol198"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol198/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol198" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol198/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol128">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol128" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol128"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol128/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol128" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol128/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol429">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol429" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol429"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol429/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol429" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol429/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol101">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol101" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol101"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol101/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol101" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol101/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol0811">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol0811" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol0811"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol0811/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol0811" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol0811/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol53">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol53" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol53"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol53/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol53" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol53/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol46">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol46" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol46"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol46/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol46" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol46/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol94">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol94" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol94"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol94/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol94" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol94/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol56">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol56" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol56"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol56/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol56" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol56/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol836">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol836" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol836"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol836/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol836" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol836/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol409">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol409" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol409"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol409/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol409" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol409/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol133">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol133" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol133"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol133/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol133" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol133/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol733">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol733" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol733"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol733/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol733" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol733/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol75">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol75" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol75"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol75/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol75" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol75/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol98">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol98" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol98"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol98/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol98" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol98/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol144">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol144" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol144"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol144/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol144" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol144/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/example" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 example"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/example" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 example/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_union_test">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/cpp_union_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_union_test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_union_test/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/cpp_union_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_union_test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c_demo">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/c_demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 c_demo"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c_demo/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/c_demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 c_demo/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol344">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol344" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol344"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol344/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol344" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol344/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_module_demo">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/cpp_module_demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_module_demo"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp_module_demo/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/cpp_module_demo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp_module_demo/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol121">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol121" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol121"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol121/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol121" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol121/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c_test">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/c_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 c_test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c_test/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/c_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 c_test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol69">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol69" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol69"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol69/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol69" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol69/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol590">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol590" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol590"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol590/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol590" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol590/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol88">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol88" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol88"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sol88/fast">
+				<Option output="/Users/jhl/CLionProjects/examples/cmake-build-debug/sol88" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhl/CLionProjects/examples/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 sol88/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhl/CLionProjects/examples/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution0811.cpp">
+			<Option target="sol0811"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution101.cpp">
+			<Option target="sol101"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution113.cpp">
+			<Option target="sol133"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution118.cpp">
+			<Option target="sol118"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution121.cpp">
+			<Option target="sol121"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution124.cpp">
+			<Option target="sol124"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution128.cpp">
+			<Option target="sol128"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution144.cpp">
+			<Option target="sol144"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution1482.cpp">
+			<Option target="sol1482"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution166.cpp">
+			<Option target="sol166"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution198.cpp">
+			<Option target="sol198"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution217.cpp">
+			<Option target="sol217"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution26.cpp">
+			<Option target="sol26"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution344.cpp">
+			<Option target="sol344"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution402.cpp">
+			<Option target="sol402"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution409.cpp">
+			<Option target="sol409"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution429.cpp">
+			<Option target="sol429"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution46.cpp">
+			<Option target="sol46"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution53.cpp">
+			<Option target="sol53"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution56.cpp">
+			<Option target="sol56"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution590.cpp">
+			<Option target="sol590"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution598.cpp">
+			<Option target="sol598"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution621.cpp">
+			<Option target="sol621"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution69.cpp">
+			<Option target="sol69"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution733.cpp">
+			<Option target="sol733"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution740.cpp">
+			<Option target="sol740"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution75.cpp">
+			<Option target="sol75"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution836.cpp">
+			<Option target="sol836"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution88.cpp">
+			<Option target="sol88"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution94.cpp">
+			<Option target="sol94"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/algorithm/solution98.cpp">
+			<Option target="sol98"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/c/demo.c">
+			<Option target="c_demo"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/c/test.c">
+			<Option target="c_test"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/cpp/module_demo.cpp">
+			<Option target="cpp_module_demo"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/cpp/union_test.cpp">
+			<Option target="cpp_union_test"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/main.cpp">
+			<Option target="example"/>
+		</Unit>
+		<Unit filename="/Users/jhl/CLionProjects/examples/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
