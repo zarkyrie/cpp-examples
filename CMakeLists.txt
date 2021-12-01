@@ -44,4 +44,5 @@ add_executable(sol598 algorithm/solution598.cpp)
 add_executable(sol121 algorithm/solution121.cpp)
 add_executable(sol191 algorithm/solution191.cpp)
 add_executable(sol438 algorithm/solution438.cpp)
+add_executable(sol1446 algorithm/solution1446.cpp)
 

@@ -44,7 +44,7 @@ public:
         int sLen = s.size(), pLen = p.size();
 
         if (sLen < pLen) {
-            return vector<int>();
+            return {};
         }
 
         vector<int> ans;
@@ -87,13 +87,35 @@ public:
 
         return ans;
     }
+
+    vector<int> findAnagrams3(string s, string p) {
+        vector<int> goal(26), cur(26), res;
+
+        for (char c: p) {
+            goal[c - 'a']++;
+        }
+
+        for (int i = 0; i < s.size(); i++) {
+            cur[s[i] - 'a']++;
+
+            if (i >= p.size()) {
+                cur[s[i - p.size()] - 'a']--;
+            }
+
+            if (cur == goal) {
+                res.push_back(i - p.size() + 1);
+            }
+        }
+
+        return res;
+    }
 };
 
 int main() {
     Solution sol;
     string s = "ebacbabacd";
     string p = "abc";
-    vector<int> res = sol.findAnagrams(s, p);
+    vector<int> res = sol.findAnagrams2(s, p);
     cout << s << endl;
 }
 
