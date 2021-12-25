@@ -7,6 +7,7 @@ add_executable(example main.cpp)
 
 add_executable(c_test c/test.c)
 add_executable(c_demo c/demo.c)
+add_executable(c_csapp_network c/csapp/network/csapp_network.c)
 
 add_executable(cpp_module_demo cpp/module_demo.cpp)
 add_executable(cpp_union_test cpp/union_test.cpp)
@@ -45,4 +46,7 @@ add_executable(sol121 algorithm/solution121.cpp)
 add_executable(sol191 algorithm/solution191.cpp)
 add_executable(sol438 algorithm/solution438.cpp)
 add_executable(sol1446 algorithm/solution1446.cpp)
+add_executable(sol506 algorithm/solution506.cpp)
+add_executable(sol50 algorithm/solution50.cpp)
+add_executable(sol1609 algorithm/solution1609.cpp)
 
